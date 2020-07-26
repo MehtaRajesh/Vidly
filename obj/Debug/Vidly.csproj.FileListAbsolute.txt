@@ -49,7 +49,7 @@ E:\dotnet\webapp\mvc\Vidly\bin\System.Web.WebPages.Razor.xml
 E:\dotnet\webapp\mvc\Vidly\bin\Newtonsoft.Json.xml
 E:\dotnet\webapp\mvc\Vidly\bin\Antlr3.Runtime.pdb
 E:\dotnet\webapp\mvc\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\dotnet\webapp\mvc\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 E:\dotnet\webapp\mvc\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 E:\dotnet\webapp\mvc\Vidly\obj\Debug\Vidly.dll
 E:\dotnet\webapp\mvc\Vidly\obj\Debug\Vidly.pdb
+E:\dotnet\webapp\mvc\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
